@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147721361132",
+    "firebase_url": "https://salvaguarda-da-capoeira.firebaseio.com",
+    "project_id": "salvaguarda-da-capoeira",
+    "storage_bucket": "salvaguarda-da-capoeira.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147721361132:android:4a3615c31d726820a4b7c9",
+        "android_client_info": {
+          "package_name": "br.com.jovemdeveloper.salvaguardadacapoeira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147721361132-o67ioq9k61r9u3iecmou0th4egqo036f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.jovemdeveloper.salvaguardadacapoeira",
+            "certificate_hash": "b105cd4ea83521b43cafec15d09a615a729045c0"
+          }
+        },
+        {
+          "client_id": "147721361132-0biffn1svtq02v3gf110umafm75g2bu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk0lvH6AHY-P0ZMZsVxS7EZm1gzgPGjdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147721361132-0biffn1svtq02v3gf110umafm75g2bu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

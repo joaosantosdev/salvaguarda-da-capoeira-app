@@ -1,0 +1,651 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:2:1-134:12
+INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:2:1-134:12
+INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:2:1-134:12
+INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:2:1-134:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\25753722447392f775d3c14c057bce9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-storage:0.6.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-ui-storage-0.6.0.aar\e0e012c91113acef348c8af7e7926d8f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5fb501f4e9b00726c6a3aceaa220bd51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\130f930594ba815ee24a8472ec06df3c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\93286ebb4b06def3606d256d8c0e079f\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:palette-v7:23.4.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\palette-v7-23.4.0.aar\ca6ee12dc177353a7fe38425b13ec7bc\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\5223e2d50f7a94ca7715796c01bb9351\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\12a0b199ca4c58fa13008d2ad8ad7cc0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\1d717b08f012f36981257ed74b16a93f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\1b558558516cba4d5172053a1bade051\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.1.aar\8db16bef70ea219eb791c3b70650942b\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c60696647d6a8b1953beb87508dafb4c\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\ff5b86bfd4f917f8eb1cdb09d7a8f6b3\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\44a50f37291de73ebec423599e112509\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c181a6022702fa15eebeccff77c2cc13\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\f01b8bb1b9b55f0398114761e97725a3\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\cf02b5750544a6b60cf1778f16623c78\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\8a2e3a96594e2a1b9e2d769d00a6cd4b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\0f9a5f199d5b0da9ec084aeb420dab86\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\c97696ea50958fbdf2d5f550872c1e63\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\2b9dea27296990cdc873412277ffdce7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\28888c05fa1dfcb9b8d85a3fa95e0655\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9127bcb37812135e05c44f02ca67a5e6\AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e079dce3d719ae97bf664d5fb6db0c0e\AndroidManifest.xml:2:1-11:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.12.aar\57020f3c5ae0d4ec0a71e90dbbfea01d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\28085112bc1774d7bb7539f87e584b64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\817333c59f9d1d67f7055360c4c057c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\32e95bebb8688c9986a82e0c845dd0b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\85109aa1aca881e6b68f380d3c82d24a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9a54ccbba668cd56dc6a14404f83a28b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\f00ac4759589beffb50496bbf1adf188\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bfb318462c6ebb021f5066de9218323c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ddd670650e1a530d8dfd1edac343a92c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\10284586b0309c389ef9400fe9c87c62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\a36d1d23fee944680b0a6be54a0704ef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8b6868656a30eaecb4ca357a49371b66\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\37e3dd0d5aa140e428f6c15f0f19096d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\19c20daf3b7b596e53db6a44e091a945\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\040966c3d62bad1d75cd1084146a6e97\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\07fd05f71f92707c9c082948e7e60d1f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:2:1-134:12
+INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:2:1-134:12
+INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:2:1-134:12
+	package
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:2:1-134:12
+		INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:2:1-134:12
+		INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\12a0b199ca4c58fa13008d2ad8ad7cc0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\12a0b199ca4c58fa13008d2ad8ad7cc0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\1b558558516cba4d5172053a1bade051\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\1b558558516cba4d5172053a1bade051\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\c97696ea50958fbdf2d5f550872c1e63\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\c97696ea50958fbdf2d5f550872c1e63\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:15:22-78
+application
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:17:5-132:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\130f930594ba815ee24a8472ec06df3c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\130f930594ba815ee24a8472ec06df3c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:palette-v7:23.4.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\palette-v7-23.4.0.aar\ca6ee12dc177353a7fe38425b13ec7bc\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:23.4.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\palette-v7-23.4.0.aar\ca6ee12dc177353a7fe38425b13ec7bc\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\12a0b199ca4c58fa13008d2ad8ad7cc0\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\12a0b199ca4c58fa13008d2ad8ad7cc0\AndroidManifest.xml:30:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\1d717b08f012f36981257ed74b16a93f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\1d717b08f012f36981257ed74b16a93f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c60696647d6a8b1953beb87508dafb4c\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c60696647d6a8b1953beb87508dafb4c\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\ff5b86bfd4f917f8eb1cdb09d7a8f6b3\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\ff5b86bfd4f917f8eb1cdb09d7a8f6b3\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\44a50f37291de73ebec423599e112509\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\44a50f37291de73ebec423599e112509\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c181a6022702fa15eebeccff77c2cc13\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c181a6022702fa15eebeccff77c2cc13\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\cf02b5750544a6b60cf1778f16623c78\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\cf02b5750544a6b60cf1778f16623c78\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\8a2e3a96594e2a1b9e2d769d00a6cd4b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\8a2e3a96594e2a1b9e2d769d00a6cd4b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\0f9a5f199d5b0da9ec084aeb420dab86\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\0f9a5f199d5b0da9ec084aeb420dab86\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\2b9dea27296990cdc873412277ffdce7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\2b9dea27296990cdc873412277ffdce7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9127bcb37812135e05c44f02ca67a5e6\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9127bcb37812135e05c44f02ca67a5e6\AndroidManifest.xml:7:5-12:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e079dce3d719ae97bf664d5fb6db0c0e\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e079dce3d719ae97bf664d5fb6db0c0e\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\040966c3d62bad1d75cd1084146a6e97\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\040966c3d62bad1d75cd1084146a6e97\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:23:9-40
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.Slide
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:24:9-33:20
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:27:13-46
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:26:13-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:31:27-74
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.Historia
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:34:9-38:103
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:35:13-49
+	android:parentActivityName
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:38:13-100
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:36:13-85
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.CadastrarCapoeirista
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:39:9-43:103
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:40:13-49
+	android:parentActivityName
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:43:13-100
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:42:13-51
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:41:13-97
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.SemConexao
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:44:9-47:49
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:45:13-49
+	android:theme
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:47:13-46
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:46:13-87
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.VisualizarCapoeiristas
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:48:9-52:103
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:49:13-49
+	android:parentActivityName
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:52:13-100
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:51:13-48
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:50:13-99
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.Principal
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:53:9-57:59
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:56:13-61
+	android:theme
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:55:13-86
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.Desenvolvedores
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:58:9-62:103
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:59:13-49
+	android:parentActivityName
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:62:13-100
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:61:13-52
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:60:13-92
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:71:9-73:55
+	android:value
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:73:13-52
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:72:13-58
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.Mapa
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:75:9-78:59
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:78:13-56
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:77:13-81
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.CadastrarGrupo
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:79:9-83:103
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:80:13-49
+	android:parentActivityName
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:83:13-100
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:82:13-34
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:81:13-91
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.VisualizarGrupos
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:84:9-88:103
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:85:13-49
+	android:parentActivityName
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:88:13-100
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:87:13-35
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:86:13-93
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.Perfil
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:89:9-93:116
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:90:13-49
+	android:parentActivityName
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:93:13-113
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:92:13-35
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:91:13-83
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.CadastrarRoda
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:94:9-98:103
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:95:13-49
+	android:parentActivityName
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:98:13-100
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:97:13-33
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:96:13-90
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.VisualizarRoda
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:99:9-103:103
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:100:13-49
+	android:parentActivityName
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:103:13-100
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:102:13-45
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:101:13-91
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.Login
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:104:9-107:49
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:105:13-49
+	android:theme
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:107:13-46
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:106:13-82
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.EditarPerfil
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:108:9-111:45
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:109:13-49
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:111:13-42
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:110:13-89
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.CadastrarUsuario
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:113:9-116:49
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:114:13-49
+	android:theme
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:116:13-46
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:115:13-93
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.Maps
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:117:9-120:59
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:118:13-49
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:120:13-56
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:119:13-76
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.AdicionarEvento
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:121:9-126:59
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:122:13-49
+	android:parentActivityName
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:125:13-100
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:124:13-68
+	android:theme
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:126:13-56
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:123:13-92
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.VisualizarEventos
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:127:9-130:47
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:128:13-49
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:130:13-44
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:129:13-94
+activity#br.com.jovemdeveloper.salvaguardadacapoeira.view.VisualizarRodaLista
+ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:131:9-261
+	android:screenOrientation
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:131:19-55
+	android:parentActivityName
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:131:140-227
+	android:label
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:131:228-249
+	android:name
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml:131:56-139
+uses-sdk
+INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\25753722447392f775d3c14c057bce9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\25753722447392f775d3c14c057bce9b\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-storage:0.6.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-ui-storage-0.6.0.aar\e0e012c91113acef348c8af7e7926d8f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-storage:0.6.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-ui-storage-0.6.0.aar\e0e012c91113acef348c8af7e7926d8f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5fb501f4e9b00726c6a3aceaa220bd51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5fb501f4e9b00726c6a3aceaa220bd51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\130f930594ba815ee24a8472ec06df3c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\130f930594ba815ee24a8472ec06df3c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\93286ebb4b06def3606d256d8c0e079f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\93286ebb4b06def3606d256d8c0e079f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:palette-v7:23.4.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\palette-v7-23.4.0.aar\ca6ee12dc177353a7fe38425b13ec7bc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:23.4.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\palette-v7-23.4.0.aar\ca6ee12dc177353a7fe38425b13ec7bc\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\5223e2d50f7a94ca7715796c01bb9351\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\5223e2d50f7a94ca7715796c01bb9351\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\12a0b199ca4c58fa13008d2ad8ad7cc0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\12a0b199ca4c58fa13008d2ad8ad7cc0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\1d717b08f012f36981257ed74b16a93f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\1d717b08f012f36981257ed74b16a93f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\1b558558516cba4d5172053a1bade051\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\1b558558516cba4d5172053a1bade051\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.1.aar\8db16bef70ea219eb791c3b70650942b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.1.aar\8db16bef70ea219eb791c3b70650942b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c60696647d6a8b1953beb87508dafb4c\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c60696647d6a8b1953beb87508dafb4c\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\ff5b86bfd4f917f8eb1cdb09d7a8f6b3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\ff5b86bfd4f917f8eb1cdb09d7a8f6b3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\44a50f37291de73ebec423599e112509\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\44a50f37291de73ebec423599e112509\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c181a6022702fa15eebeccff77c2cc13\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c181a6022702fa15eebeccff77c2cc13\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\f01b8bb1b9b55f0398114761e97725a3\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\f01b8bb1b9b55f0398114761e97725a3\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\cf02b5750544a6b60cf1778f16623c78\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\cf02b5750544a6b60cf1778f16623c78\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\8a2e3a96594e2a1b9e2d769d00a6cd4b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\8a2e3a96594e2a1b9e2d769d00a6cd4b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\0f9a5f199d5b0da9ec084aeb420dab86\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\0f9a5f199d5b0da9ec084aeb420dab86\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\c97696ea50958fbdf2d5f550872c1e63\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\c97696ea50958fbdf2d5f550872c1e63\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\2b9dea27296990cdc873412277ffdce7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\2b9dea27296990cdc873412277ffdce7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\28888c05fa1dfcb9b8d85a3fa95e0655\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\28888c05fa1dfcb9b8d85a3fa95e0655\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9127bcb37812135e05c44f02ca67a5e6\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9127bcb37812135e05c44f02ca67a5e6\AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e079dce3d719ae97bf664d5fb6db0c0e\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e079dce3d719ae97bf664d5fb6db0c0e\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.12.aar\57020f3c5ae0d4ec0a71e90dbbfea01d\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.12.aar\57020f3c5ae0d4ec0a71e90dbbfea01d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\28085112bc1774d7bb7539f87e584b64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\28085112bc1774d7bb7539f87e584b64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\817333c59f9d1d67f7055360c4c057c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\817333c59f9d1d67f7055360c4c057c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\32e95bebb8688c9986a82e0c845dd0b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\32e95bebb8688c9986a82e0c845dd0b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\85109aa1aca881e6b68f380d3c82d24a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\85109aa1aca881e6b68f380d3c82d24a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9a54ccbba668cd56dc6a14404f83a28b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9a54ccbba668cd56dc6a14404f83a28b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\f00ac4759589beffb50496bbf1adf188\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\f00ac4759589beffb50496bbf1adf188\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bfb318462c6ebb021f5066de9218323c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bfb318462c6ebb021f5066de9218323c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ddd670650e1a530d8dfd1edac343a92c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ddd670650e1a530d8dfd1edac343a92c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\10284586b0309c389ef9400fe9c87c62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\10284586b0309c389ef9400fe9c87c62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\a36d1d23fee944680b0a6be54a0704ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\a36d1d23fee944680b0a6be54a0704ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8b6868656a30eaecb4ca357a49371b66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8b6868656a30eaecb4ca357a49371b66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\37e3dd0d5aa140e428f6c15f0f19096d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\37e3dd0d5aa140e428f6c15f0f19096d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\19c20daf3b7b596e53db6a44e091a945\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\19c20daf3b7b596e53db6a44e091a945\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\040966c3d62bad1d75cd1084146a6e97\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\040966c3d62bad1d75cd1084146a6e97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\07fd05f71f92707c9c082948e7e60d1f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\07fd05f71f92707c9c082948e7e60d1f\AndroidManifest.xml:20:5-44
+INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+		ADDED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\final-20191222T161451Z-001\final\SalvaguardaDaCapoeiraCE\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\12a0b199ca4c58fa13008d2ad8ad7cc0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\c97696ea50958fbdf2d5f550872c1e63\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\c97696ea50958fbdf2d5f550872c1e63\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\12a0b199ca4c58fa13008d2ad8ad7cc0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\12a0b199ca4c58fa13008d2ad8ad7cc0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\12a0b199ca4c58fa13008d2ad8ad7cc0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\12a0b199ca4c58fa13008d2ad8ad7cc0\AndroidManifest.xml:28:9-32
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\3e4b7ed0701e61220404aa109d3690f0\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\06c23fd838d876735dddbf741c036b20\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\cd2eb419321be876c1b29d9a1b7be1ec\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:29:9-63
+permission#br.com.jovemdeveloper.salvaguardadacapoeira.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:32:22-76
+uses-permission#br.com.jovemdeveloper.salvaguardadacapoeira.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:br.com.jovemdeveloper.salvaguardadacapoeira
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:48:27-58
+category#br.com.jovemdeveloper.salvaguardadacapoeira
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\da5eea509db5814b0d08a74592061ac9\AndroidManifest.xml:60:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c60696647d6a8b1953beb87508dafb4c\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c60696647d6a8b1953beb87508dafb4c\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c60696647d6a8b1953beb87508dafb4c\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c60696647d6a8b1953beb87508dafb4c\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c60696647d6a8b1953beb87508dafb4c\AndroidManifest.xml:10:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\44a50f37291de73ebec423599e112509\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\44a50f37291de73ebec423599e112509\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\44a50f37291de73ebec423599e112509\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\44a50f37291de73ebec423599e112509\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\2b9dea27296990cdc873412277ffdce7\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\2b9dea27296990cdc873412277ffdce7\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\2b9dea27296990cdc873412277ffdce7\AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9127bcb37812135e05c44f02ca67a5e6\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9127bcb37812135e05c44f02ca67a5e6\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9127bcb37812135e05c44f02ca67a5e6\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\joaos\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9127bcb37812135e05c44f02ca67a5e6\AndroidManifest.xml:9:13-64

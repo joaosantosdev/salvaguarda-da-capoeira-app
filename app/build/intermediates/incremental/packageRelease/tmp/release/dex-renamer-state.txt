@@ -1,0 +1,4 @@
+#Sun Dec 22 16:24:15 GFT 2019
+base.0=C\:\\final-20191222T161451Z-001\\final\\SalvaguardaDaCapoeiraCE\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

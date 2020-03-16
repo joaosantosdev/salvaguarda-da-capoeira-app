@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="br.com.jovemdeveloper.salvaguardadacapoeira.view.Principal"
+    tools:showIn="@layout/app_bar_principal">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="3"
+    android:layout_height="wrap_content">
+    <EditText
+        android:layout_height="35dp"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/edtLo"
+        android:background="@drawable/sombra"
+        android:hint="País,Estado,Cidade,Bairro"
+       />
+    <Button
+        android:layout_marginTop="-2dp"
+        android:layout_weight="2"
+        android:layout_height="35dp"
+        android:layout_width="match_parent"
+        android:onClick="getLocation"
+        android:background="@color/centerColor"
+        android:textColor="@color/colorWhite"
+        android:text="Pesquisar"/>
+</LinearLayout>
+
+
+
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>

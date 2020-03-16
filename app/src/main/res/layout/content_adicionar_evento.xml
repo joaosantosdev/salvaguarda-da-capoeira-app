@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="br.com.jovemdeveloper.salvaguardadacapoeira.view.AdicionarEvento"
+    android:padding="10dp"
+    tools:showIn="@layout/adicionar_evento">
+
+    <Button
+        android:background="@drawable/design_button"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+
+        android:onClick="selecionarImagemEvento"
+        android:text="@string/selecionar_imagem"/>
+    <TextView
+        android:layout_marginTop="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/descricao_evento"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:id="@+id/edtDescricaoEvento"
+        android:layout_height="wrap_content"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:id="@+id/imgEvento"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
